@@ -1,0 +1,271 @@
+{
+	"auth": {
+		"account-settings": {
+			"language": "Nyelv",
+			"languages": {
+				"de": "Deutsch",
+				"en": "English",
+				"hu": "Magyar",
+				"nl": "Nederlands",
+				"pl": "Polski",
+				"ro": "Română"
+			}
+		},
+		"back-to-login": "Vissza a bejelentkezéshez",
+		"forgot-password": {
+			"help-text": "Adja meg az alábbi e-mail címét vagy bejelentkezési nevét, és kattintson az <strong>E-mail küldése</strong> gombra. Ezután ellenőrizze a postafiókját. Az új jelszó beállításához kattintson a kapott e-mail linkre.",
+			"send-email": "E-mail küldése"
+		},
+		"handle-token": {
+			"loading": "Kérjük, várjon, amíg be van jelentkezve"
+		},
+		"login": {
+			"forgot-password": "Elfelejtett jelszó?",
+			"login": "Bejelentkezés",
+			"multiple-user-accounts-found": "Több, mint egy felhasználói fiók található",
+			"no-token-found": "Nem található token",
+			"no-user-account-found": "Nincs felhasználói fiók",
+			"user-account-blocked": "A fiók letiltva",
+			"user-account-not-flexworker-or-employee": "A bejelentkezés a flexworkers és az alkalmazottakra korlátozódik"
+		},
+		"password": "Jelszó",
+		"update-password": {
+			"identifier-not-verified": "A kérés, hogy módosítsa a jelszó lejárt",
+			"password-changed-succesfully": "Jelszava megváltozott",
+			"password-min-length": "A jelszónak legalább {{minCharacters}} karakter hosszúnak kell lennie",
+			"repeat-password": "Jelszó ismétlése",
+			"the-passwords-are-not-equal": "A jelszavak nem egyenlők"
+		}
+	},
+	"domain": {
+		"address": {
+			"address": "Cím",
+			"city": "Város",
+			"postal-code": "Irányítószám"
+		},
+		"person": {
+			"dateOfBirth": "Szül. Idő",
+			"email": "Email cím",
+			"female": "Női",
+			"gender": "Neme",
+			"last-login-date": "Utolsó bejelentkezés dátuma",
+			"male": "Férfi",
+			"mobile": "Mobil",
+			"name": "Név",
+			"phone": "Telefon"
+		}
+	},
+	"errors": {
+		"configuration": {
+			"admin": "Probléma van a (z) {{errorCode}} oldal csatlakozásával. Az üzenet be van jelentkezve az elmah.io-ba, kattintson az <a target=\"_blank\" href=\"{{link}}\">linkre</a> az üzenet megtekintéséhez.",
+			"employee": "Probléma van a (z) {{errorCode}} oldal csatlakozásával. További információkért vegye fel a kapcsolatot a szervizzel."
+		}
+	},
+	"flexworker-portal": {
+		"annual-statements": {
+			"help-text": "Az “Éves adónyilatkozat” az a közlemény, amit a munkáltató juttat el az alkalmazottnak egy naptári év leteltével vagy a munkaszerződés(ek)ben foglaltak befejeztével. Az “Éves Nyilvántartás” átfogó képet mutat a bérezések adatairól a tárgyév teljes idejére vonatkozóan. Többek között az olyan részletek, mint a “munkáltatói adó” és a “kereseti jövedelem” megtalálható ebben a dokumentumban.",
+			"not-found": "Nem található éves nyilvántartás"
+		},
+		"contact": {
+			"confidential": "Bizalmas üzenet",
+			"help-text": "Van kérdése, észrevétele, javaslata vagy panasza? Tudasd velünk. Az alábbiakban üzenetet küldhet nekünk.",
+			"message-sent": "Az üzenet sikeresen elküldve"
+		},
+		"downloads": {
+			"help-text": "Itt található az archívum szempontjából fontos dokumentumok listája. Javasoljuk, hogy töltse le ezeket a dokumentumokat, és őrizze meg az adminisztrációban.",
+			"not-found": "Nem található letöltés",
+			"period": "Időszak"
+		},
+		"payslips": {
+			"help-text": "A Fizetések Részletezése, avagy Fizetési Igazolás, tartalmazza a bruttó bérek értékét a munkáltatótól, különféle juttatásokat és levonásokat, és végül a nettó fizetések összegét, figyelembe véve a munkáltató és munkavállaló között létrejött megállapodásokat a munkaszerződés(ek)ben és a munka törvénykönyvét egyaránt.",
+			"not-found": "Nem találtak fizetési igazolás"
+		},
+		"room-bookings": {
+			"not-found": ""
+		},
+		"statements-status": {
+			"confirmation-sent": "Megerősítés elküldve",
+			"fw-approved": "A flexworker jóváhagyta",
+			"fw-submitted": "Mentette a flexworker",
+			"help-text": "Az alábbiakban bemutatjuk az óraszámot, amelyre órákat mentünk. A munkaórákat a kapcsolat jóváhagyása után fizetés céljából dolgozzuk fel. A feldolgozott időfüzet 28 napig látható.",
+			"no-confirmation-sent": "Nem küldött visszaigazolást",
+			"not-found": "Nem találtak munkaidő",
+			"not-fw-approved": "A flexworker nem hagyta jóvá",
+			"not-fw-submitted": "A flexworker nem mentette meg",
+			"not-rl-approved": "A szervezet nem hagyta jóvá",
+			"not-rl-submitted": "Nem mentette meg a szervezet",
+			"rl-approved": "Szervezet által jóváhagyva",
+			"rl-submitted": "Mentette a szervezet"
+		},
+		"travel-statement-lines": {
+			"colleagues": "Kollégák",
+			"kilometers": "kilométerek",
+			"not-found": "Nem található utazási nyilatkozat",
+			"status": {
+				"APPROVED": "Jóváhagyott",
+				"DENIED": "Tiltott",
+				"WAITING": "Várakozás"
+			},
+			"with-colleagues": "A kollégákkal"
+		},
+		"your-information": {
+			"age-max-80": "Az életkornak 80-nál kisebbnek kell lennie",
+			"age-min-16": "Az életkornak 16-nál nagyobbnak kell lennie",
+			"changes-sent": "Változtatsok elküldve. Az adatok megváltoztatása némi idot vehet igénybe. Köszönjük türelmét.",
+			"help-text": "Itt megtalálhatja az Ön által regisztrált információkat. Ez az információ helytelen? Értesítsen minket a lehető leghamarabb."
+		}
+	},
+	"flexworkers": {
+		"flexworkers": {
+			"not-found": "Nem található flexworker"
+		}
+	},
+	"frame": {
+		"menu": {
+			"annual-statements": "Éves adónyilatkozatok",
+			"app-themes": "Logók és színek",
+			"contact": "Kapcsolatba lépni",
+			"downloads": "Letöltések",
+			"flexworkers": "Flexworkers",
+			"general": "Tábornok",
+			"help": "Segítség",
+			"housing": "Ház",
+			"language-settings": "Nyelvi beállítások",
+			"log-off": "Kijelentkezés",
+			"new-features": "Új funkciók",
+			"new-travel-statement": "Új kilométer kimutatások",
+			"payroll": "Bérlista",
+			"payslips": "Fizetési igazolások",
+			"plan": "Tervezés",
+			"registration": "Regisztráció",
+			"settings": "Beállitások",
+			"statements-status": "Nyilatkozat állapota",
+			"timesheet-week-x": "Munkaidő - {{ weekNumber }}hét",
+			"timesheets": "Munkaidő",
+			"travel-statements": "Kilométer kimutatások",
+			"worked-hours": "Megmunkált órák",
+			"your-information": "Személyes Adatok"
+		}
+	},
+	"settings": {
+		"app-themes": {
+			"accent-color": "Akcentus színe",
+			"favicon": "Ikon",
+			"general": "Tábornok",
+			"header-color": "Fejléc színe",
+			"logo": "Logo",
+			"no-theme": "Ennek az internetes portálnak nincs témája",
+			"theme-is-deleted": "A téma törlődik"
+		},
+		"new-features-this-tenant": "Ez a tenant"
+	},
+	"setttins": {
+		"general-settings": {
+			"help-text": "Itt található a Flexportal általános beállításai. A beállításokat itt nem lehet megváltoztatni."
+		}
+	},
+	"shared": {
+		"add": "Hozzáad",
+		"back": "Hát",
+		"break": "Szünet",
+		"choose-file": "Válassz fájlt",
+		"count": "Számol",
+		"create": "Új",
+		"date": "Dátum",
+		"delete": "Töröl",
+		"description": "Leírás",
+		"details": "Részletek",
+		"download": "Letöltés",
+		"email-address": "Email cím",
+		"end": "Vég",
+		"filter-all": "Minden",
+		"from": "Tól től",
+		"hours": "Órák",
+		"lines-count": "Vonalak száma",
+		"load-more-lines": "Töltsön be több sort",
+		"message": "Üzenet",
+		"messages": {
+			"external-systems-fail": "Hoppá! Valami rosszul sült el.",
+			"no-changes-where-made": "Nem történt módosítás",
+			"page-not-available": "Ez a funkció ideiglenesen nem érhető el. Kérlek, próbáld újra később.",
+			"tenant-not-found": "Nem található a „{{tenantName}}”. Biztos benne, hogy a helyesírás helyes?",
+			"the-changes-are-saved": "A módosítások mentésre kerülnek",
+			"this-field-is-required": "Ez a mező kötelező",
+			"this-field-must-be-email": "Ez a mező egy e-mail cím",
+			"this-field-must-be-greater-than-zero": "A számnak nullánál nagyobbnak kell lennie",
+			"unauthorized": "Nincs elegendő joga ehhez a művelethez"
+		},
+		"name": "Név",
+		"no": "Nem",
+		"open": "Nyisd ki",
+		"page-not-found": "Az oldal nem található",
+		"period": "Időszak",
+		"progress": "Haladás",
+		"save": "Mentés",
+		"saveAndApprove": "Mentés + jóváhagy",
+		"search": "Keresés",
+		"send": "Küldése",
+		"since": "Mivel",
+		"start": "Rajt",
+		"state": "Állapot",
+		"status": "Állapot",
+		"time-at": "nál nél",
+		"to": "Nak nek",
+		"total": "Teljes",
+		"upload": "Feltöltés",
+		"week": "Hét",
+		"year": "Év",
+		"yes": "Igen"
+	},
+	"shared-confirm-delete": {
+		"are-you-sure-you-want-to-delete-this-item": "Biztosan törölni szeretné ezt az elemet?",
+		"are-you-sure-you-want-to-leave-this-page": "Biztosan elhagyja ezt az oldalt?",
+		"delete-item": "Elem törlése",
+		"not-all-changes-are-saved": "Nem minden módosítás kerül mentésre"
+	},
+	"timesheets": {
+		"breakTime": "Szünet",
+		"componentunit": {
+			"Amount": "összeg",
+			"Day": "nap",
+			"Hour": "óra",
+			"Kilometer": "km",
+			"Piece": "darab",
+			"WorkedDay": "dolgozott nap"
+		},
+		"edit-hours-overlay": {
+			"add-a-work-moment": "Adjon hozzá egy munka pillanatot",
+			"choose-an-action": "Válasszon egy műveletet",
+			"copy-to-another-day": "Másolás egy másik napra",
+			"delete-these-hours": "Törölje ezeket az órákat",
+			"times": "{{ start }} -tól {{ end }} -ig {{ break }} szünettel",
+			"times-without-break": "{{ start }} -tól {{ end }} -ig szünet nélkül"
+		},
+		"end": "Vég",
+		"messages": {
+			"breaktime-longer-then-worktime": "A munkaidőnek hosszabbnak kell lennie, mint a szünet",
+			"the-attachment-is-uploaded": "A melléklet feltöltésre kerül",
+			"the-timesheet-is-approved": "Az ütemtervet jóváhagyták",
+			"the-timesheet-is-saved": "Az időtábla mentésre kerül"
+		},
+		"noopenthisweek": "Ehhez a héthez nincs nyitva álló időrend.",
+		"select-a-week": "Válasszon egy hetet",
+		"select-a-week-explanation": "Több héten át munkaidőt nyújthat be",
+		"selectStatement": "Szervezet - Funkció",
+		"start": "Rajt",
+		"summary": {
+			"explanation": "Ez az Ön munkaórája a (z) <strong>{{ startDate }}</strong> és <strong>{{ endDate }}</strong>közötti hétre.",
+			"instructions": "Kattintson a szerkeszteni kívánt munkára, vagy kattintson a Hozzáadás gombra, ha órát szeretne hozzáadni egy másik munkához, amelyben dolgozott",
+			"no-jobs-instructions": "Kattintson a Hozzáadás gombra, ha órát szeretne hozzáadni egy olyan munkához, amelyben dolgozott",
+			"no-jobs-yet": "Még nem írta be az órákat",
+			"worked-jobs-count": "Ezen a héten <strong>{{jobsCount}}</strong> munkát végzett",
+			"your-approval": "Beleegyezésed"
+		},
+		"total": "Teljes",
+		"upload-attachments": "Tölts fel egy mellékletet",
+		"weeks-not-found": "Jelenleg nincs olyan hét, amelyre órákat kell benyújtani",
+		"worked-hours": {
+			"worked-hours": "Megmunkált órák"
+		}
+	}
+}

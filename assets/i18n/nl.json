@@ -1,0 +1,271 @@
+{
+	"auth": {
+		"account-settings": {
+			"language": "Taal",
+			"languages": {
+				"de": "Deutsch",
+				"en": "English",
+				"hu": "Magyar",
+				"nl": "Nederlands",
+				"pl": "Polski",
+				"ro": "Română"
+			}
+		},
+		"back-to-login": "Terug naar Inloggen",
+		"forgot-password": {
+			"help-text": "Voer hieronder je e-mailadres of inlognaam in en klik op de knop <strong>E-mail verzenden</strong>. Controleer daarna je mailbox. Klik op de link in de\n            ontvangen e-mail om een nieuw wachtwoord in te stellen.",
+			"send-email": "E-mail verzenden"
+		},
+		"handle-token": {
+			"loading": "Even geduld terwijl u wordt ingelogd"
+		},
+		"login": {
+			"forgot-password": "Wachtwoord vergeten?",
+			"login": "Inloggen",
+			"multiple-user-accounts-found": "Meer dan één gebruikersaccount gevonden",
+			"no-token-found": "Geen token gevonden",
+			"no-user-account-found": "Geen gebruikersaccount gevonden",
+			"user-account-blocked": "Account geblokkeerd",
+			"user-account-not-flexworker-or-employee": "Inloggen is beperkt tot flexwerkers en werknemers"
+		},
+		"password": "Wachtwoord",
+		"update-password": {
+			"identifier-not-verified": "Het verzoek om het wachtwoord te veranderen is verlopen",
+			"password-changed-succesfully": "Uw wachtwoord is gewijzigd",
+			"password-min-length": "Het wachtwoord dient minimaal {{minCharacters}} karakters lang te zijn",
+			"repeat-password": "Wachtwoord herhalen",
+			"the-passwords-are-not-equal": "Wachtwoorden zijn niet gelijk"
+		}
+	},
+	"domain": {
+		"address": {
+			"address": "Adres",
+			"city": "Plaats",
+			"postal-code": "Postcode"
+		},
+		"person": {
+			"dateOfBirth": "Geboortedatum",
+			"email": "E-mailadres",
+			"female": "Vrouw",
+			"gender": "Geslacht",
+			"last-login-date": "Laatste inlogdatum",
+			"male": "Man",
+			"mobile": "Mobiel",
+			"name": "Naam",
+			"phone": "Telefoon"
+		}
+	},
+	"errors": {
+		"configuration": {
+			"admin": "Er is een probleem {{errorCode}} om verbinding te maken met deze pagina. Een bericht is gelogd in elmah.io, klik op <a target=\"_blank\" href=\"{{link}}\">deze link</a> om het bericht te zien.",
+			"employee": "Er is een probleem {{errorCode}} om verbinding te maken met deze pagina. Neem voor meer informatie contact op met onze servicedesk."
+		}
+	},
+	"flexworker-portal": {
+		"annual-statements": {
+			"help-text": "Een  jaaropgave of jaaropgaaf is een overzicht dat een werkgever naar een  werknemer stuurt na beëindiging van een kalenderjaar of bij beëindiging  van het arbeidscontract. De jaaropgave geeft een overzicht van de  loongegevens van een heel jaar. Details als loonheffing en  arbeidskorting worden vermeld op dit formulier.",
+			"not-found": "Geen jaaropgaven gevonden"
+		},
+		"contact": {
+			"confidential": "Vertrouwelijk bericht",
+			"help-text": "Heb je vragen, opmerkingen, suggesties of klachten? Laat het ons weten. Hieronder kun je ons een bericht sturen.",
+			"message-sent": "Bericht is succesvol verzonden"
+		},
+		"downloads": {
+			"help-text": "Hiernaast vindt je een lijst met documenten die belangrijk zijn voor jouw archief. Wij adviseren je deze documenten te downloaden en ze goed te bewaren in jouw administratie.",
+			"not-found": "Geen downloads gevonden",
+			"period": "Periode"
+		},
+		"payslips": {
+			"help-text": "De salarisspecificatie, traditioneel ook wel het loonstrook(je) genoemd, is voor werknemers de specificatie door de werkgever van het brutoloon, de toeslagen en inhoudingen, en het nettoloon, rekening houdende met de afspraken in de arbeidsovereenkomst en de wet.",
+			"not-found": "Geen loonstroken gevonden"
+		},
+		"room-bookings": {
+			"not-found": ""
+		},
+		"statements-status": {
+			"confirmation-sent": "Bevestiging verzonden",
+			"fw-approved": "Geaccordeerd door flexwerker",
+			"fw-submitted": "Opgeslagen door flexwerker",
+			"help-text": "De werkbrieven waarvoor uren zijn opgeslagen, worden hieronder weergegeven. Werkbrieven worden verwerkt voor betaling na goedkeuring door de relatie. Verwerkte werkbrieven blijven 28 dagen zichtbaar.",
+			"no-confirmation-sent": "Geen bevestiging verzonden",
+			"not-found": "Geen werkbrieven gevonden",
+			"not-fw-approved": "Niet geaccordeerd door flexwerker",
+			"not-fw-submitted": "Niet opgeslagen door flexwerker",
+			"not-rl-approved": "Niet geaccordeerd door organisatie",
+			"not-rl-submitted": "Niet opgeslagen door organisatie",
+			"rl-approved": "Geaccordeerd door organisatie",
+			"rl-submitted": "Opgeslagen door organisatie"
+		},
+		"travel-statement-lines": {
+			"colleagues": "Collega's",
+			"kilometers": "Kilometers",
+			"not-found": "Geen kilometerstaten gevonden",
+			"status": {
+				"APPROVED": "Goedgekeurd",
+				"DENIED": "Afgewezen",
+				"WAITING": "In afwachting"
+			},
+			"with-colleagues": "Met collega's"
+		},
+		"your-information": {
+			"age-max-80": "Leeftijd mag maximaal 80 jaar zijn",
+			"age-min-16": "Leeftijd moet minimaal 16 zijn",
+			"changes-sent": "Je wijzigingen zijn per e-mail aan het uitzendbureau doorgegeven. Het kan enige tijd duren voordat deze gewijzigd worden, houd hier alsjeblieft rekening mee.",
+			"help-text": "Hier vind je de informatie zoals wij deze van jou hebben geregistreerd. Kloppen deze gegevens niet? Laat het ons dan zo snel mogelijk weten."
+		}
+	},
+	"flexworkers": {
+		"flexworkers": {
+			"not-found": "Geen flexwerkers gevonden"
+		}
+	},
+	"frame": {
+		"menu": {
+			"annual-statements": "Jaaropgaves",
+			"app-themes": "Logo's en kleuren",
+			"contact": "Contact",
+			"downloads": "Downloads",
+			"flexworkers": "Flexwerkers",
+			"general": "Algemeen",
+			"help": "Help",
+			"housing": "Huisvesting",
+			"language-settings": "Taal instellingen",
+			"log-off": "Uitloggen",
+			"new-features": "Nieuwe functies",
+			"new-travel-statement": "Nieuwe kilometerstaat",
+			"payroll": "Verloning",
+			"payslips": "Loonstroken",
+			"plan": "Planning",
+			"registration": "Inschrijving",
+			"settings": "Instellingen",
+			"statements-status": "Declaratiestatus",
+			"timesheet-week-x": "Werkbrief - week {{ weekNumber }}",
+			"timesheets": "Werkbrieven",
+			"travel-statements": "Kilometerstaten",
+			"worked-hours": "Gewerkte uren",
+			"your-information": "Jouw informatie"
+		}
+	},
+	"settings": {
+		"app-themes": {
+			"accent-color": "Accent kleur",
+			"favicon": "Icoon",
+			"general": "Algemeen",
+			"header-color": "Kop kleur",
+			"logo": "Logo",
+			"no-theme": "Deze internetportal heeft geen thema",
+			"theme-is-deleted": "Het thema is verwijderd"
+		},
+		"new-features-this-tenant": "Deze tenant"
+	},
+	"setttins": {
+		"general-settings": {
+			"help-text": "Hier vind je de algemene instellingen van deze Flexportal. De instellingen kunnen hier niet worden gewijzigd."
+		}
+	},
+	"shared": {
+		"add": "Toevoegen",
+		"back": "Terug",
+		"break": "Pauze",
+		"choose-file": "Kies bestand",
+		"count": "Aantal",
+		"create": "Nieuw",
+		"date": "Datum",
+		"delete": "Verwijderen",
+		"description": "Omschrijving",
+		"details": "Details",
+		"download": "Downloaden",
+		"email-address": "E-mailadres",
+		"end": "Einde",
+		"filter-all": "Alle",
+		"from": "Van",
+		"hours": "Uren",
+		"lines-count": "Aantal regels",
+		"load-more-lines": "Laad meer regels",
+		"message": "Bericht",
+		"messages": {
+			"external-systems-fail": "Oeps, er is iets fout gegaan. Probeer het later opnieuw.",
+			"no-changes-where-made": "Er zijn geen wijzigingen aangebracht",
+			"page-not-available": "Deze functionaliteit is tijdelijk niet beschikbaar. Probeer het later opnieuw.",
+			"tenant-not-found": "Kan '{{tenantName}}' niet vinden. Weet je zeker dat de spelling correct is?",
+			"the-changes-are-saved": "De wijzigingen zijn opgeslagen",
+			"this-field-is-required": "Dit veld is verplicht",
+			"this-field-must-be-email": "Dit veld moet een e-mailadres zijn",
+			"this-field-must-be-greater-than-zero": "Getal moet groter zijn dan nul",
+			"unauthorized": "U heeft onvoldoende rechten voor deze actie"
+		},
+		"name": "Naam",
+		"no": "Nee",
+		"open": "Open",
+		"page-not-found": "Pagina niet gevonden",
+		"period": "Periode",
+		"progress": "Voortgang",
+		"save": "Opslaan",
+		"saveAndApprove": "Opslaan + accorderen",
+		"search": "Zoeken",
+		"send": "Verzenden",
+		"since": "Sinds",
+		"start": "Start",
+		"state": "Status",
+		"status": "Status",
+		"time-at": "om",
+		"to": "Naar",
+		"total": "Totaal",
+		"upload": "Uploaden",
+		"week": "Week",
+		"year": "Jaar",
+		"yes": "Ja"
+	},
+	"shared-confirm-delete": {
+		"are-you-sure-you-want-to-delete-this-item": "Weet je zeker dat je dit item wilt verwijderen?",
+		"are-you-sure-you-want-to-leave-this-page": "Weet je zeker dat je deze pagina wilt verlaten?",
+		"delete-item": "Item verwijderen",
+		"not-all-changes-are-saved": "Niet alle wijzigingen zijn opgeslagen"
+	},
+	"timesheets": {
+		"breakTime": "Pauze",
+		"componentunit": {
+			"Amount": "bedrag",
+			"Day": "dag",
+			"Hour": "uur",
+			"Kilometer": "km",
+			"Piece": "stuk",
+			"WorkedDay": "gewerkte dag"
+		},
+		"edit-hours-overlay": {
+			"add-a-work-moment": "Voeg een werkmoment toe",
+			"choose-an-action": "Kies een actie",
+			"copy-to-another-day": "Kopieer naar een andere dag",
+			"delete-these-hours": "Verwijder deze uren",
+			"times": "Van {{ start }} tot {{ end }} met {{ break }} pauze",
+			"times-without-break": "Van {{ start }} tot {{ end }} zonder pauze"
+		},
+		"end": "Tot",
+		"messages": {
+			"breaktime-longer-then-worktime": "De werktijd moet langer zijn dan de pauzetijd",
+			"the-attachment-is-uploaded": "De bijlage is geupload",
+			"the-timesheet-is-approved": "De werkbrief is geaccordeerd",
+			"the-timesheet-is-saved": "De werkbrief is opgeslagen"
+		},
+		"noopenthisweek": "Voor deze week is er geen openstaande werkbrief.",
+		"select-a-week": "Kies een week",
+		"select-a-week-explanation": "Je kunt gewerkte uren voor meerdere weken indienen",
+		"selectStatement": "Relatie - Functie",
+		"start": "Van",
+		"summary": {
+			"explanation": "Dit is je werkbrief voor de week van <strong>{{ startDate }}</strong> tot <strong>{{ endDate }}</strong>",
+			"instructions": "Klik op een baan om te bewerken of klik op de knop Toevoegen om uren toe te voegen voor een andere baan waarin je hebt gewerkt",
+			"no-jobs-instructions": "Klik op de knop Toevoegen om uren toe te voegen voor een baan waarin je hebt gewerkt",
+			"no-jobs-yet": "Je hebt nog geen uren ingevuld",
+			"worked-jobs-count": "Deze week heb je <strong>{{jobsCount}}</strong> banen gehad",
+			"your-approval": "Jouw goedkeuring"
+		},
+		"total": "Totaal",
+		"upload-attachments": "Upload een bijlage",
+		"weeks-not-found": "Er zijn momenteel geen weken waarvoor uren ingeleverd moeten worden",
+		"worked-hours": {
+			"worked-hours": "Gewerkte uren"
+		}
+	}
+}

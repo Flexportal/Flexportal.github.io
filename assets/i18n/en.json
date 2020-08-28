@@ -1,0 +1,271 @@
+{
+	"auth": {
+		"account-settings": {
+			"language": "Language",
+			"languages": {
+				"de": "Deutsch",
+				"en": "English",
+				"hu": "Magyar",
+				"nl": "Nederlands",
+				"pl": "Polski",
+				"ro": "Română"
+			}
+		},
+		"back-to-login": "Back to log in",
+		"forgot-password": {
+			"help-text": "Enter your email address or login name below and click the <strong>Send email</strong> button. Then check your mailbox. Click the link in the received email to set a new password.",
+			"send-email": "Send email"
+		},
+		"handle-token": {
+			"loading": "Please wait while you are being logged in"
+		},
+		"login": {
+			"forgot-password": "Forgot password?",
+			"login": "Login",
+			"multiple-user-accounts-found": "More than one user account found",
+			"no-token-found": "No token found",
+			"no-user-account-found": "No user account found",
+			"user-account-blocked": "Account blocked",
+			"user-account-not-flexworker-or-employee": "Log in is restricted to flexworkers and employees"
+		},
+		"password": "Password",
+		"update-password": {
+			"identifier-not-verified": "The password change request has expired",
+			"password-changed-succesfully": "Your password has been changed",
+			"password-min-length": "The password must be at least {{minCharacters}} characters long",
+			"repeat-password": "Repeat password",
+			"the-passwords-are-not-equal": "Passwords are not equal"
+		}
+	},
+	"domain": {
+		"address": {
+			"address": "Address",
+			"city": "City",
+			"postal-code": "Postal code"
+		},
+		"person": {
+			"dateOfBirth": "Date of birth",
+			"email": "Email address",
+			"female": "Female",
+			"gender": "Gender",
+			"last-login-date": "Last login date",
+			"male": "Man",
+			"mobile": "Mobile",
+			"name": "Name",
+			"phone": "Phone"
+		}
+	},
+	"errors": {
+		"configuration": {
+			"admin": "There is a problem {{errorCode}} connecting to this page. A message is logged in elmah.io, click <a target=\"_blank\" href=\"{{link}}\">this link</a> to see the message.",
+			"employee": "There is a problem {{errorCode}} connecting to this page. Contact our servicedesk for more information."
+		}
+	},
+	"flexworker-portal": {
+		"annual-statements": {
+			"help-text": "An annual statement is a statement that an employer gives to an employee after a calendar year or upon termination of the employment contract. The annual statement provides an overview of the wage data of a whole year. Details such as payroll tax and earned income are listed on this form.",
+			"not-found": "No annual statements found"
+		},
+		"contact": {
+			"confidential": "Confidential message",
+			"help-text": "Do you have any questions, comments, suggestions or complaints? Let us know. Below you can send us a message.",
+			"message-sent": "Message was sent successfully"
+		},
+		"downloads": {
+			"help-text": "Here you will find a list of documents that are important for your archive. We advise you to download these documents and keep them in your administration.",
+			"not-found": "No downloads found",
+			"period": "Period"
+		},
+		"payslips": {
+			"help-text": "The salary specification, traditionally called the payslip, is employed for the specification of the gross salary by the employer, the allowances and deductions, and net pay, taking into account the agreements in the contract and the law.",
+			"not-found": "No payslips found"
+		},
+		"room-bookings": {
+			"not-found": ""
+		},
+		"statements-status": {
+			"confirmation-sent": "Confirmation sent",
+			"fw-approved": "Approved by flexworker",
+			"fw-submitted": "Saved by flexworker",
+			"help-text": "Timesheet for which hours are saved are shown below. Timesheets are processed for payment  after approval by the relation. Processed timesheets will be visible for 28 days.",
+			"no-confirmation-sent": "No confirmation sent",
+			"not-found": "No time sheets found",
+			"not-fw-approved": "Not approved by flexworker",
+			"not-fw-submitted": "Not saved by flexworker",
+			"not-rl-approved": "Not approved by organisation",
+			"not-rl-submitted": "Not saved by organisation",
+			"rl-approved": "Approved by organisation",
+			"rl-submitted": "Saved by organisation"
+		},
+		"travel-statement-lines": {
+			"colleagues": "Colleagues",
+			"kilometers": "Kilometers",
+			"not-found": "No travel statements found",
+			"status": {
+				"APPROVED": "Approved",
+				"DENIED": "Denied",
+				"WAITING": "Waiting"
+			},
+			"with-colleagues": "With colleagues"
+		},
+		"your-information": {
+			"age-max-80": "Age must be less than 80",
+			"age-min-16": "Age must be greater than 16",
+			"changes-sent": "Your changes were sent to the employment agency. It might take a while before the information is changed, please be patient.",
+			"help-text": "Here you find the information we have registered about you. Is this information incorrect? Let us know as soon as possible."
+		}
+	},
+	"flexworkers": {
+		"flexworkers": {
+			"not-found": "No flexworkers found"
+		}
+	},
+	"frame": {
+		"menu": {
+			"annual-statements": "Annual Statements",
+			"app-themes": "Logos and colors",
+			"contact": "Contact",
+			"downloads": "Downloads",
+			"flexworkers": "Flexworkers",
+			"general": "General",
+			"help": "Help",
+			"housing": "Housing",
+			"language-settings": "Language settings",
+			"log-off": "Log off",
+			"new-features": "New features",
+			"new-travel-statement": "New travel statement",
+			"payroll": "Payroll",
+			"payslips": "Payslips",
+			"plan": "Planning",
+			"registration": "Registration",
+			"settings": "Settings",
+			"statements-status": "Statement status",
+			"timesheet-week-x": "Timesheet - week {{ weekNumber }}",
+			"timesheets": "Timesheets",
+			"travel-statements": "Travel statements",
+			"worked-hours": "Worked hours",
+			"your-information": "Your Information"
+		}
+	},
+	"settings": {
+		"app-themes": {
+			"accent-color": "Accent color",
+			"favicon": "Icon",
+			"general": "General",
+			"header-color": "Header color",
+			"logo": "Logo",
+			"no-theme": "This internet portal does not have a theme",
+			"theme-is-deleted": "The theme is deleted"
+		},
+		"new-features-this-tenant": "This tenant"
+	},
+	"setttins": {
+		"general-settings": {
+			"help-text": "Here you find the general settings of this Flexportal. The settings cannot be changed here."
+		}
+	},
+	"shared": {
+		"add": "Add",
+		"back": "Back",
+		"break": "lunchbreak",
+		"choose-file": "Choose file",
+		"count": "Count",
+		"create": "New",
+		"date": "Date",
+		"delete": "Delete",
+		"description": "Description",
+		"details": "Details",
+		"download": "Download",
+		"email-address": "Email address",
+		"end": "End",
+		"filter-all": "All",
+		"from": "From",
+		"hours": "Hours",
+		"lines-count": "Number of lines",
+		"load-more-lines": "Load more lines",
+		"message": "Message",
+		"messages": {
+			"external-systems-fail": "Oops, something went wrong.",
+			"no-changes-where-made": "No changes were made",
+			"page-not-available": "This functionality is temporarily unavailable. Please try again later.",
+			"tenant-not-found": "Cannot find '{{tenantName}}'. Are you sure the spelling is correct?",
+			"the-changes-are-saved": "The changes are saved",
+			"this-field-is-required": "This field is required",
+			"this-field-must-be-email": "This field must be an email address",
+			"this-field-must-be-greater-than-zero": "Number must be greater then zero",
+			"unauthorized": "You do not have sufficient rights for this action"
+		},
+		"name": "Name",
+		"no": "No",
+		"open": "Open",
+		"page-not-found": "Page not found",
+		"period": "Period",
+		"progress": "Progress",
+		"save": "Save",
+		"saveAndApprove": "Save + approve",
+		"search": "Search",
+		"send": "Send",
+		"since": "Since",
+		"start": "Start",
+		"state": "Start",
+		"status": "Status",
+		"time-at": "at",
+		"to": "To",
+		"total": "Total",
+		"upload": "Upload",
+		"week": "Week",
+		"year": "Year",
+		"yes": "Yes"
+	},
+	"shared-confirm-delete": {
+		"are-you-sure-you-want-to-delete-this-item": "Are you sure you want to delete this item?",
+		"are-you-sure-you-want-to-leave-this-page": "Are you sure you want to leave this page?",
+		"delete-item": "Delete item",
+		"not-all-changes-are-saved": "Not all changes are saved"
+	},
+	"timesheets": {
+		"breakTime": "Pause",
+		"componentunit": {
+			"Amount": "amount",
+			"Day": "day",
+			"Hour": "hour",
+			"Kilometer": "km",
+			"Piece": "piece",
+			"WorkedDay": "worked day"
+		},
+		"edit-hours-overlay": {
+			"add-a-work-moment": "Add a work moment",
+			"choose-an-action": "Choose an action",
+			"copy-to-another-day": "Copy to another day",
+			"delete-these-hours": "Delete these hours",
+			"times": "From {{ start }} till {{ end }} with {{ break }} break",
+			"times-without-break": "From {{ start }} till {{ end }} without break"
+		},
+		"end": "End",
+		"messages": {
+			"breaktime-longer-then-worktime": "The working time must be longer than the break time",
+			"the-attachment-is-uploaded": "The attachment is upload",
+			"the-timesheet-is-approved": "The timesheet is approved",
+			"the-timesheet-is-saved": "The timesheet is saved"
+		},
+		"noopenthisweek": "There is no open timesheet for this week.",
+		"select-a-week": "Select a week",
+		"select-a-week-explanation": "You can submit worked hours for multiple weeks",
+		"selectStatement": "Organization - Function",
+		"start": "Start",
+		"summary": {
+			"explanation": "This is your timesheet for the week from <strong>{{ startDate }}</strong> till <strong>{{ endDate }}</strong>",
+			"instructions": "Click on a job to edit or click the Add button to add hours for another job that you worked in",
+			"no-jobs-instructions": "Click on the Add button to add hours for a job that you worked in",
+			"no-jobs-yet": "You have not entered hours yet",
+			"worked-jobs-count": "This week you worked <strong>{{jobsCount}}</strong> jobs",
+			"your-approval": "Your approval"
+		},
+		"total": "Total",
+		"upload-attachments": "Upload an attachment",
+		"weeks-not-found": "There are currently no weeks for which hours have to be submitted",
+		"worked-hours": {
+			"worked-hours": "Worked hours"
+		}
+	}
+}

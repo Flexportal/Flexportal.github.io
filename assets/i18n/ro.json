@@ -1,0 +1,271 @@
+{
+	"auth": {
+		"account-settings": {
+			"language": "Limbă",
+			"languages": {
+				"de": "Deutsch",
+				"en": "English",
+				"hu": "Magyar",
+				"nl": "Nederlands",
+				"pl": "Polski",
+				"ro": "Română"
+			}
+		},
+		"back-to-login": "Înapoi la Log in",
+		"forgot-password": {
+			"help-text": "Introduceți adresa de e-mail sau numele de login de mai jos și faceți clic pe <strong> Trimite e-mail </strong> buton. Apoi verificați căsuța poștală. Faceți clic pe linkul din e-mailul primit pentru a seta o parolă nouă.",
+			"send-email": "Trimite e-mail"
+		},
+		"handle-token": {
+			"loading": "Vă rugăm să așteptați când sunteți autentificat"
+		},
+		"login": {
+			"forgot-password": "Am uitat parola?",
+			"login": "Login",
+			"multiple-user-accounts-found": "Au fost găsite mai multe conturi de utilizator",
+			"no-token-found": "Nu s-a găsit jeton",
+			"no-user-account-found": "Nu a fost găsit niciun cont de utilizator",
+			"user-account-blocked": "Cont blocat",
+			"user-account-not-flexworker-or-employee": "Conectarea este limitată la angajați și angajați"
+		},
+		"password": "Parola",
+		"update-password": {
+			"identifier-not-verified": "Cererea de a schimba parola a expirat",
+			"password-changed-succesfully": "Parola dvs. a fost schimbată",
+			"password-min-length": "Parola trebuie sa fie minim {{minCharacters}} caractere",
+			"repeat-password": "Repetare parolă",
+			"the-passwords-are-not-equal": "Parolele nu sunt egale"
+		}
+	},
+	"domain": {
+		"address": {
+			"address": "Adresa",
+			"city": "Oraș",
+			"postal-code": "Cod postal"
+		},
+		"person": {
+			"dateOfBirth": "Data de nastere",
+			"email": "Adresa de email",
+			"female": "Femeie",
+			"gender": "Genul",
+			"last-login-date": "Ultima dată de conectare",
+			"male": "Masculin",
+			"mobile": "Mobil",
+			"name": "Nume",
+			"phone": "Telefon"
+		}
+	},
+	"errors": {
+		"configuration": {
+			"admin": "Există o problemă {{errorCode}} conectarea la această pagină. Un mesaj este conectat la elmah.io, faceți clic pe <a target=\"_blank\" href=\"{{link}}\">pe acest link</a> pentru a vedea mesajul.",
+			"employee": "Există o problemă {{errorCode}} conectarea la această pagină. Contactați servicedesk pentru mai multe informații."
+		}
+	},
+	"flexworker-portal": {
+		"annual-statements": {
+			"help-text": "Declaratia anuală de impozit este o declaratie care este trimis de la angajator pentru lucrator intr-un an calendaristic trecut sau la finalizarea lucrarilor continute in contractul de munca. Declaratia anuala de impozit arata o imagine cuprinzatoare ale salariilor pentru intreaga perioada a anului. Printre alte lucruri, cum ar fi “impozitul de salarii” si “Venitul castigat” pot fi gasite in acest document.",
+			"not-found": "Nu au fost găsite declarații anuale de impozit"
+		},
+		"contact": {
+			"confidential": "Mesaj confidențial",
+			"help-text": "Aveți întrebări, comentarii, sugestii sau reclamații? Anunță-ne. Mai jos ne puteți trimite un mesaj.",
+			"message-sent": "Mesajul a fost trimis cu succes"
+		},
+		"downloads": {
+			"help-text": "Aici veți găsi o listă de documente care sunt importante pentru arhiva dvs. Vă recomandăm să descărcați aceste documente și să le păstrați în administrația dvs.",
+			"not-found": "Nu s-au găsit descărcări",
+			"period": "Perioadă"
+		},
+		"payslips": {
+			"help-text": "Detalii de plată sau Certificatul de plata contine salariile brute de la angajator, diverse beneficii si reduceri, si in final suma net, avand in vedere acordurile incheiate intre angajator si lucrator, conform cu contractul de munca si cu Codul Muncii.",
+			"not-found": "Nu au fost găsite plăți de salariu"
+		},
+		"room-bookings": {
+			"not-found": ""
+		},
+		"statements-status": {
+			"confirmation-sent": "Confirmare trimisă",
+			"fw-approved": "Aprobat de flexworker",
+			"fw-submitted": "Salvat de flexworker",
+			"help-text": "Foaia de timp pentru care se salvează orele este prezentată mai jos. Fișele de lucru sunt procesate pentru plată după aprobarea relației. Foile de timp procesate vor fi vizibile timp de 28 de zile.",
+			"no-confirmation-sent": "Nu a fost trimisă nici o confirmare",
+			"not-found": "Nu s-au găsit fise de timp",
+			"not-fw-approved": "Nu este aprobat de flexworker",
+			"not-fw-submitted": "Nu este salvat de flexworker",
+			"not-rl-approved": "Nu este aprobat de organizație",
+			"not-rl-submitted": "Nu este salvat de organizație",
+			"rl-approved": "Aprobat de organizație",
+			"rl-submitted": "Salvat de organizație"
+		},
+		"travel-statement-lines": {
+			"colleagues": "Colegi",
+			"kilometers": "kilometri",
+			"not-found": "Nu s-au găsit declarații de călătorie",
+			"status": {
+				"APPROVED": "Aprobat",
+				"DENIED": "Denied",
+				"WAITING": "Așteptare"
+			},
+			"with-colleagues": "Cu colegii"
+		},
+		"your-information": {
+			"age-max-80": "Vârsta trebuie să fie mai mică de 80",
+			"age-min-16": "Vârsta trebuie să fie mai mare de 16",
+			"changes-sent": "Modificarile dumneavoastra au fost trimise la agen?ie. Se poate sa ia ceva timp pâna informa?ia este procesata, va rugam sa ave?i rabdare.",
+			"help-text": "Aici găsiți informațiile pe care le-am înregistrat despre dvs. Aceste informații sunt incorecte? Spuneți-ne cât mai curând posibil."
+		}
+	},
+	"flexworkers": {
+		"flexworkers": {
+			"not-found": "Nu a fost găsit niciun flexworker"
+		}
+	},
+	"frame": {
+		"menu": {
+			"annual-statements": "Declaratie anuala",
+			"app-themes": "Logouri și culori",
+			"contact": "A lua legatura",
+			"downloads": "Descarcari",
+			"flexworkers": "Flexworkers",
+			"general": "General",
+			"help": "Ajutor",
+			"housing": "Carcasă",
+			"language-settings": "Setările de limbă",
+			"log-off": "Log off",
+			"new-features": "Functii noi",
+			"new-travel-statement": "Declarații de călătorie noi",
+			"payroll": "Salarizare",
+			"payslips": "Stat de plata",
+			"plan": "Planificare",
+			"registration": "Înregistrare",
+			"settings": "Setări",
+			"statements-status": "Starea declarației",
+			"timesheet-week-x": "Foaie de lucru - săptămână {{ weekNumber }}",
+			"timesheets": "Fise de timp",
+			"travel-statements": "Declarații de călătorie",
+			"worked-hours": "Orele lucrate",
+			"your-information": "Informatii personale"
+		}
+	},
+	"settings": {
+		"app-themes": {
+			"accent-color": "Culoare de accent",
+			"favicon": "Icoană",
+			"general": "General",
+			"header-color": "Culoarea antetului",
+			"logo": "Siglă",
+			"no-theme": "Acest portal de internet nu are o temă",
+			"theme-is-deleted": "Tema este ștearsă"
+		},
+		"new-features-this-tenant": "Acest tenant"
+	},
+	"setttins": {
+		"general-settings": {
+			"help-text": "Aici găsiți setările generale ale acestui Flexportal. Setările nu pot fi modificate aici."
+		}
+	},
+	"shared": {
+		"add": "Adăuga",
+		"back": "Înapoi",
+		"break": "Pauza",
+		"choose-file": "Alege fișierul",
+		"count": "Numara",
+		"create": "Nou",
+		"date": "Data",
+		"delete": "Șterge",
+		"description": "Descriere",
+		"details": "Detalii",
+		"download": "Descarca",
+		"email-address": "Adresa de email",
+		"end": "Sfarsit",
+		"filter-all": "Toate",
+		"from": "Din",
+		"hours": "Ore",
+		"lines-count": "numărul de linii",
+		"load-more-lines": "Încărcați mai multe linii",
+		"message": "Mesaj",
+		"messages": {
+			"external-systems-fail": "Ups! Ceva a mers prost.",
+			"no-changes-where-made": "Nu s-au făcut modificări",
+			"page-not-available": "Această funcționalitate este temporar indisponibilă. Vă rugăm să încercați din nou mai târziu.",
+			"tenant-not-found": "Nu se poate găsi „{{tenantName}}”. Sunteți sigur că ortografia este corectă?",
+			"the-changes-are-saved": "Modificările sunt salvate",
+			"this-field-is-required": "Acest câmp este necesar",
+			"this-field-must-be-email": "Acest câmp trebuie să fie o adresă de e-mail",
+			"this-field-must-be-greater-than-zero": "Numărul trebuie să fie mai mare decât zero",
+			"unauthorized": "Nu aveți drepturi suficiente pentru această acțiune"
+		},
+		"name": "Nume",
+		"no": "Nu",
+		"open": "Deschis",
+		"page-not-found": "Pagina nu a fost gasita",
+		"period": "Perioadă",
+		"progress": "Progres",
+		"save": "Salvați",
+		"saveAndApprove": "Salvați + aprobă",
+		"search": "căutare",
+		"send": "Trimite",
+		"since": "De cand",
+		"start": "Start",
+		"state": "Stare",
+		"status": "Stare",
+		"time-at": "la",
+		"to": "La",
+		"total": "Total",
+		"upload": "Încărcați",
+		"week": "Săptămână",
+		"year": "An",
+		"yes": "Da"
+	},
+	"shared-confirm-delete": {
+		"are-you-sure-you-want-to-delete-this-item": "Sigur doriți să ștergeți acest element?",
+		"are-you-sure-you-want-to-leave-this-page": "Sigur doriți să părăsiți această pagină?",
+		"delete-item": "Sterge articolul",
+		"not-all-changes-are-saved": "Nu toate modificările sunt salvate"
+	},
+	"timesheets": {
+		"breakTime": "Pauză",
+		"componentunit": {
+			"Amount": "cantitate",
+			"Day": "zi",
+			"Hour": "ora",
+			"Kilometer": "km",
+			"Piece": "bucată",
+			"WorkedDay": "zi lucrată"
+		},
+		"edit-hours-overlay": {
+			"add-a-work-moment": "Adăugați un moment de lucru",
+			"choose-an-action": "Alegeți o acțiune",
+			"copy-to-another-day": "Copiați în altă zi",
+			"delete-these-hours": "Ștergeți aceste ore",
+			"times": "De la {{ start }} până la {{ end }} cu {{ break }} pauză",
+			"times-without-break": "De la {{ start }} până la {{ end }} fără pauză"
+		},
+		"end": "Sfârșit",
+		"messages": {
+			"breaktime-longer-then-worktime": "Timpul de lucru trebuie să fie mai lung decât timpul de pauză",
+			"the-attachment-is-uploaded": "Fișierul atașat este încărcat",
+			"the-timesheet-is-approved": "Foaia de timp este aprobată",
+			"the-timesheet-is-saved": "Foaia de timp este salvată"
+		},
+		"noopenthisweek": "Nu există o foaie de lucru deschisă pentru această săptămână.",
+		"select-a-week": "Selectați o săptămână",
+		"select-a-week-explanation": "Puteți trimite ore de lucru pentru mai multe săptămâni",
+		"selectStatement": "Organizare - Funcție",
+		"start": "Start",
+		"summary": {
+			"explanation": "Aceasta este foaia dvs. de timp pentru săptămână de la <strong>luni, 27 iulie</strong> până la <strong>duminică, 4 august</strong>",
+			"instructions": "Faceți clic pe o lucrare pentru a edita sau faceți clic pe butonul Adăugare pentru a adăuga ore pentru o altă lucrare în care ați lucrat",
+			"no-jobs-instructions": "Faceți clic pe butonul Adăugare pentru a adăuga ore pentru o lucrare în care ați lucrat",
+			"no-jobs-yet": "Încă nu ați intrat ore",
+			"worked-jobs-count": "Săptămâna aceasta ați lucrat <strong>{{jobsCount}}</strong> locuri de muncă",
+			"your-approval": "Aprobarea ta"
+		},
+		"total": "Total",
+		"upload-attachments": "Încărcați un atașament",
+		"weeks-not-found": "În prezent, nu există săptămâni pentru care trebuie trimise ore",
+		"worked-hours": {
+			"worked-hours": "Orele lucrate"
+		}
+	}
+}

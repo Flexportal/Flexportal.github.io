@@ -1,0 +1,271 @@
+{
+	"auth": {
+		"account-settings": {
+			"language": "Jezyk",
+			"languages": {
+				"de": "Deutsch",
+				"en": "English",
+				"hu": "Magyar",
+				"nl": "Nederlands",
+				"pl": "Polski",
+				"ro": "Română"
+			}
+		},
+		"back-to-login": "Powrót do logowania",
+		"forgot-password": {
+			"help-text": "Wpisz poniżej swój adres e-mail lub nazwę logowania i kliknij przycisk <strong> Wyślij e-mail </ strong>. Następnie sprawdź swoją skrzynkę pocztową. Kliknij link w otrzymanej wiadomości e-mail, aby ustawić nowe hasło.",
+			"send-email": "Wyślij e-mail"
+		},
+		"handle-token": {
+			"loading": "Poczekaj, aż się zalogujesz"
+		},
+		"login": {
+			"forgot-password": "Zapomniałeś hasła?",
+			"login": "Zaloguj",
+			"multiple-user-accounts-found": "Znaleziono więcej niż jedno konto użytkownika",
+			"no-token-found": "Nie znaleziono tokena",
+			"no-user-account-found": "Nie znaleziono konta użytkownika",
+			"user-account-blocked": "Konto zablokowane",
+			"user-account-not-flexworker-or-employee": "Logowanie jest ograniczone do flexworkers i pracowników"
+		},
+		"password": "Hasło",
+		"update-password": {
+			"identifier-not-verified": "Czas wniosku o zmiane hasla uplynal",
+			"password-changed-succesfully": "Haslo zostalo zmienione",
+			"password-min-length": "Hasło musi mieć co najmniej {{minCharacters}} znaków",
+			"repeat-password": "Powtórz hasło",
+			"the-passwords-are-not-equal": "Hasła nie są równe"
+		}
+	},
+	"domain": {
+		"address": {
+			"address": "Adres",
+			"city": "Mijescowosc",
+			"postal-code": "Kod pocztowy"
+		},
+		"person": {
+			"dateOfBirth": "Data urodzenia",
+			"email": "Adres e-mail",
+			"female": "Kobieta",
+			"gender": "Płeć",
+			"last-login-date": "Data ostatniego zalogowania się",
+			"male": "Mężczyzna",
+			"mobile": "Mobile",
+			"name": "Imię",
+			"phone": "Telefon"
+		}
+	},
+	"errors": {
+		"configuration": {
+			"admin": "Wystąpił problem {{errorCode}} podczas łączenia się z tą stroną. Wiadomość jest rejestrowana w elmah.io, kliknij <a target=\"_blank\" href=\"{{link}}\">ten link</a> , aby zobaczyć wiadomość.",
+			"employee": "Wystąpił problem {{errorCode}} podczas łączenia się z tą stroną. Skontaktuj się z naszym serwisem, aby uzyskać więcej informacji."
+		}
+	},
+	"flexworker-portal": {
+		"annual-statements": {
+			"help-text": "Rozliczenie roczne to sprawozdanie, kt&oacute;re pracodawca wysyła pracownikowi po zakończeniu roku kalendarzowego lub po wygaśnięciu umowy o pracę. Rozliczenie roczne zawiera dane, dotyczące Państwa pensji z całego roku. Wymienione są tu tez kwestie takie jak podatki oraz naliczone zniżki.",
+			"not-found": "Nie znaleziono żadnych sprawozdanie roczne"
+		},
+		"contact": {
+			"confidential": "Wiadomość poufna",
+			"help-text": "Czy masz jakieś pytania, komentarze, sugestie lub skargi? Daj nam znać. Poniżej możesz wysłać nam wiadomość.",
+			"message-sent": "Wiadomość została wysłana pomyślnie"
+		},
+		"downloads": {
+			"help-text": "Tutaj znajdziesz listę dokumentów ważnych dla Twojego archiwum. Radzimy pobrać te dokumenty i zachować je w administracji.",
+			"not-found": "Nie znaleziono pobrań",
+			"period": "Kropka"
+		},
+		"payslips": {
+			"help-text": "Pasek z pensji, zwany r&oacute;wnież specyfikacją, jest sporządzaną przez pracodawcę informacją dla pracownik&oacute;w, dotyczącą pensji brutto, dodatk&oacute;w oraz potrąceń, pensji netto, po uwzględnieniu warunk&oacute;w zapisanych w umowie o pracę oraz obowiązującego ustawodawstwa.",
+			"not-found": "Nie znaleziono pasków wypłaty"
+		},
+		"room-bookings": {
+			"not-found": ""
+		},
+		"statements-status": {
+			"confirmation-sent": "Wysłano potwierdzenie",
+			"fw-approved": "Zatwierdzony przez flexworker",
+			"fw-submitted": "Zapisane przez Flexworker",
+			"help-text": "Kartę czasu pracy, dla której zapisano godziny, pokazano poniżej. Karty czasu pracy są przetwarzane do zapłaty po zatwierdzeniu przez relację. Przetworzone karty czasu pracy będą widoczne przez 28 dni.",
+			"no-confirmation-sent": "Nie wysłano potwierdzenia",
+			"not-found": "Nie znaleziono arkusze czasu",
+			"not-fw-approved": "Niezatwierdzone przez flexworker",
+			"not-fw-submitted": "Nie zapisane przez Flexworker",
+			"not-rl-approved": "Niezatwierdzone przez organizację",
+			"not-rl-submitted": "Nie zapisane przez organizację",
+			"rl-approved": "Zatwierdzone przez organizację",
+			"rl-submitted": "Zapisane przez organizację"
+		},
+		"travel-statement-lines": {
+			"colleagues": "Koledzy",
+			"kilometers": "Kilometry",
+			"not-found": "Nie znaleziono oświadczeń dotyczących podróży",
+			"status": {
+				"APPROVED": "Zatwierdzony",
+				"DENIED": "Odmówiono",
+				"WAITING": "Czekanie"
+			},
+			"with-colleagues": "Z kolegami"
+		},
+		"your-information": {
+			"age-max-80": "Wiek musi być mniejszy niż 80",
+			"age-min-16": "Wiek musi być większy niż 16",
+			"changes-sent": "Podane przez Ciebie zmiany zostaly wyslane do firmy. Moze to jednak potrwac kilka dni, zanim zostana one wprowadzone, wiec prosimy o liczenie sie z tym.",
+			"help-text": "Tutaj znajdziesz informacje o tobie zarejestrowane. Czy ta informacja jest niepoprawna? Daj nam znać tak szybko, jak to możliwe."
+		}
+	},
+	"flexworkers": {
+		"flexworkers": {
+			"not-found": "Nie znaleziono pracowników elastycznych"
+		}
+	},
+	"frame": {
+		"menu": {
+			"annual-statements": "Sprawozdanie roczne",
+			"app-themes": "Logo i kolory",
+			"contact": "Kontakt",
+			"downloads": "Pliki do pobrania",
+			"flexworkers": "Flexworkers",
+			"general": "Generał",
+			"help": "Wsparcie",
+			"housing": "Mieszkaniowy",
+			"language-settings": "Ustawienia języka",
+			"log-off": "Wyloguj się",
+			"new-features": "Nowe funkcje",
+			"new-travel-statement": "Nowe kilometrówki ",
+			"payroll": "Listy płac",
+			"payslips": "Paski wyplat",
+			"plan": "Planowanie",
+			"registration": "Rejestracji",
+			"settings": "Ustawienia",
+			"statements-status": "Status wyciągu",
+			"timesheet-week-x": "Grafik - tydzień {{ weekNumber }}",
+			"timesheets": "Arkusze czasu",
+			"travel-statements": "Kilometrówki ",
+			"worked-hours": "Pracowały godziny",
+			"your-information": "Twoje dane"
+		}
+	},
+	"settings": {
+		"app-themes": {
+			"accent-color": "Akcentowy kolor",
+			"favicon": "Ikona",
+			"general": "Generał",
+			"header-color": "Kolor nagłówka",
+			"logo": "Logo",
+			"no-theme": "Ten portal internetowy nie ma motywu",
+			"theme-is-deleted": "Motyw został usunięty"
+		},
+		"new-features-this-tenant": "Ten tenant"
+	},
+	"setttins": {
+		"general-settings": {
+			"help-text": "Tutaj znajdziesz ogólne ustawienia tego Flexportal. Tutaj nie można zmienić ustawień."
+		}
+	},
+	"shared": {
+		"add": "Dodaj",
+		"back": "Z powrotem",
+		"break": "Przerwa",
+		"choose-file": "Wybierz plik",
+		"count": "Liczyć",
+		"create": "Nowy",
+		"date": "Data",
+		"delete": "Kasować",
+		"description": "Opis",
+		"details": "Detale",
+		"download": "Ściągnij",
+		"email-address": "Adres e-mail",
+		"end": "Koniec",
+		"filter-all": "wszystko",
+		"from": "Od",
+		"hours": "Godziny",
+		"lines-count": "Liczba linii",
+		"load-more-lines": "Załaduj więcej linii",
+		"message": "Wiadomość",
+		"messages": {
+			"external-systems-fail": "Ups! Coś poszło nie tak.",
+			"no-changes-where-made": "Nie wprowadzono żadnych zmian",
+			"page-not-available": "Ta funkcja jest chwilowo niedostępna. Spróbuj ponownie później.",
+			"tenant-not-found": "Nie można znaleźć „{{tenantName}}”. Czy jesteś pewien, że pisownia jest poprawna?",
+			"the-changes-are-saved": "Zmiany zostaną zapisane",
+			"this-field-is-required": "To pole jest wymagane",
+			"this-field-must-be-email": "To pole musi być adresem e-mail",
+			"this-field-must-be-greater-than-zero": "Liczba musi być większa niż zero",
+			"unauthorized": "Nie masz wystarczających uprawnień do tego działania"
+		},
+		"name": "Imię",
+		"no": "Nie",
+		"open": "Otwarty",
+		"page-not-found": "Strona nie znaleziona",
+		"period": "Okres",
+		"progress": "Postęp",
+		"save": "Zapisz",
+		"saveAndApprove": "Zapisz + zatwierdź",
+		"search": "Szukaj",
+		"send": "Wyślij",
+		"since": "Od",
+		"start": "Początek",
+		"state": "Status",
+		"status": "Status",
+		"time-at": "w",
+		"to": "Do",
+		"total": "Całkowity",
+		"upload": "Przekazać plik",
+		"week": "Tydzień",
+		"year": "Rok",
+		"yes": "Tak"
+	},
+	"shared-confirm-delete": {
+		"are-you-sure-you-want-to-delete-this-item": "Czy na pewno chcesz usunąć ten element?",
+		"are-you-sure-you-want-to-leave-this-page": "Czy na pewno chcesz opuścić tę stronę?",
+		"delete-item": "Usuń przedmiot",
+		"not-all-changes-are-saved": "Nie wszystkie zmiany są zapisywane"
+	},
+	"timesheets": {
+		"breakTime": "Pauza",
+		"componentunit": {
+			"Amount": "ilość",
+			"Day": "dzień",
+			"Hour": "godzina",
+			"Kilometer": "km",
+			"Piece": "kawałek",
+			"WorkedDay": "przepracowany dzień"
+		},
+		"edit-hours-overlay": {
+			"add-a-work-moment": "Dodaj chwilę do pracy",
+			"choose-an-action": "Wybierz akcję",
+			"copy-to-another-day": "Skopiuj na inny dzień",
+			"delete-these-hours": "Usuń te godziny",
+			"times": "Od {{ start }} do {{ end }} z {{ break }} przerwą",
+			"times-without-break": "Od {{ start }} do {{ end }} bez przerwy"
+		},
+		"end": "Koniec",
+		"messages": {
+			"breaktime-longer-then-worktime": "Czas pracy musi być dłuższy niż czas przerwy",
+			"the-attachment-is-uploaded": "Załącznik jest przesyłany",
+			"the-timesheet-is-approved": "Karta czasu pracy jest zatwierdzona",
+			"the-timesheet-is-saved": "Grafik jest zapisywany"
+		},
+		"noopenthisweek": "W tym tygodniu nie ma otwartego grafiku.",
+		"select-a-week": "Wybierz tydzień",
+		"select-a-week-explanation": "Możesz podać przepracowane godziny dla wielu tygodni",
+		"selectStatement": "Organizacja - Funkcja",
+		"start": "Początek",
+		"summary": {
+			"explanation": "To jest Twój grafik na tydzień od <strong>{{ startDate }}</strong> do <strong>{{ endDate }}</strong>",
+			"instructions": "Kliknij zadanie, które chcesz edytować, lub kliknij przycisk Dodaj, aby dodać godziny na inne stanowisko, w którym pracowałeś",
+			"no-jobs-instructions": "Kliknij przycisk Dodaj, aby dodać godziny pracy, w której pracowałeś",
+			"no-jobs-yet": "Nie wprowadziłeś jeszcze godzin",
+			"worked-jobs-count": "W tym tygodniu pracowałeś <strong>{{jobsCount}}</strong> na stanowiskach",
+			"your-approval": "Twoja akceptacja"
+		},
+		"total": "Łączny",
+		"upload-attachments": "Prześlij załącznik",
+		"weeks-not-found": "Podałeś już przepracowane godziny dla wszystkich tygodni",
+		"worked-hours": {
+			"worked-hours": "Pracowały godziny"
+		}
+	}
+}
